@@ -1,4 +1,4 @@
-.u-section-1 {min-height: 656px}
+.u-section-1 {min-height: 736px}
 .u-section-1 .u-group-1 {width: 277px; min-height: 656px; margin: 0 0 0 auto}
 .u-section-1 .u-container-layout-1 {padding: 30px}
 .u-section-1 .u-social-icons-1 {white-space: nowrap; height: 32px; min-height: 16px; width: 240px; min-width: 160px; animation-duration: 1000ms; margin: 0 auto 0 -23px}
@@ -54,4 +54,26 @@
 .u-section-1 .u-form-group-2 {width: 100%}
 .u-section-1 .u-form-group-3 {width: 100%}
 .u-section-1 .u-form-group-4 {width: 100%}
-.u-section-1 .u-image-1 {min-height: 284px} }
+.u-section-1 .u-image-1 {min-height: 284px} }.u-section-2 .u-sheet-1 {min-height: 571px}
+.u-section-2 .u-shape-1 {width: 537px; height: 537px; margin: 34px 0 0 auto}
+.u-section-2 .u-group-1 {width: 800px; min-height: 385px; height: auto; margin: -478px auto 60px}
+.u-section-2 .u-container-layout-1 {padding: 30px}
+.u-section-2 .u-text-1 {text-transform: uppercase; letter-spacing: 7px; line-height: 1; font-weight: 400; margin: 31px 0 0}
+.u-section-2 .u-text-2 {font-size: 3.75rem; font-weight: 700; margin: 27px 0 0}
+.u-section-2 .u-text-3 {margin: 28px 0 0}
+.u-section-2 .u-btn-1 {border-style: none; font-weight: 700; text-transform: uppercase; font-size: 0.875rem; background-image: none; margin: 30px auto 0; padding: 15px 49px 15px 48px} 
+
+@media (max-width: 1199px){ .u-section-2 .u-group-1 {width: 660px} }
+
+@media (max-width: 991px){ .u-section-2 .u-sheet-1 {min-height: 713px}
+.u-section-2 .u-shape-1 {width: 596px; height: 596px; margin-top: 60px; margin-right: -143px}
+.u-section-2 .u-group-1 {min-height: 519px; margin-top: -578px; margin-bottom: 119px} }
+
+@media (max-width: 767px){ .u-section-2 .u-sheet-1 {min-height: 717px}
+.u-section-2 .u-group-1 {min-height: 544px; margin-top: -561px; margin-bottom: 77px; margin-right: initial; margin-left: initial; width: auto}
+.u-section-2 .u-container-layout-1 {padding-left: 10px; padding-right: 10px} }
+
+@media (max-width: 575px){ .u-section-2 .u-sheet-1 {min-height: 728px}
+.u-section-2 .u-shape-1 {width: 469px; height: 519px; margin-top: 57px; margin-right: -174px}
+.u-section-2 .u-group-1 {min-height: 615px; margin-top: -567px; margin-bottom: 9px; width: auto; margin-right: initial; margin-left: initial}
+.u-section-2 .u-text-2 {font-size: 2.25rem} }
